@@ -7,9 +7,8 @@
 
 #### What You'll Find Here
 
-- 📚 Projects: Explore my work in data analysis, visualization, and machine learning, including:
-- 📜 Certifications: See my certifications, including Advanced Excel and Tableau.
-- 💼 Experience: Discover my professional journey in roles like Senior Counsellor at LCI International Group.
+- 📚 Projects: Explore my work in data analysis, visualization including:
+- 📜 Certifications: See my certifications
 
 #### Get in Touch
 - Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nikhils7058/)
